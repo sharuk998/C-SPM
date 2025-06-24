@@ -1,0 +1,7 @@
+module COpenCV [system] {
+    header "opencv2/opencv.hpp"
+    link "opencv_core"
+    link "opencv_imgproc"
+    link "opencv_imgcodecs"
+    export *
+} 

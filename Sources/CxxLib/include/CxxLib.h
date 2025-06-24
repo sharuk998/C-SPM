@@ -1,3 +1,4 @@
 #pragma once
 
-#include "Calculator.hpp" 
+#include "Calculator.hpp"
+#include "ImageProcessor.hpp" 
